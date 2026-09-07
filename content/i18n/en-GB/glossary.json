@@ -1,0 +1,3052 @@
+{
+  "abyssal hill": {
+    "word": "abyssal hill",
+    "definition": "A small, steep hill rising from the deep ocean floor.",
+    "variations": [
+      "abyssal hill",
+      "abyssal hills"
+    ],
+    "emoji": "🌊⛰️",
+    "id": "gl001"
+  },
+  "accretion disk": {
+    "word": "accretion disk",
+    "definition": "a flat ring of gas, dust, or other material moving around a large object in space",
+    "variations": [
+      "accretion disk",
+      "accretion disks"
+    ],
+    "emoji": "🪐💫",
+    "id": "gl002"
+  },
+  "adjacent": {
+    "word": "adjacent",
+    "definition": "next to or near something",
+    "variations": [
+      "adjacent"
+    ],
+    "emoji": "📍➡️",
+    "id": "gl003"
+  },
+  "aerial photograph": {
+    "word": "aerial photograph",
+    "definition": "a picture taken from above, usually from an aircraft or satellite",
+    "variations": [
+      "aerial photographs"
+    ],
+    "emoji": "📷✈️",
+    "id": "gl004"
+  },
+  "aesthetic": {
+    "word": "aesthetic",
+    "definition": "related to beauty or the pleasing appearance of something.",
+    "variations": [
+      "aesthetic"
+    ],
+    "emoji": "🌄✨",
+    "id": "gl005"
+  },
+  "afforestation": {
+    "word": "afforestation",
+    "definition": "The planting of trees in an area that did not have a forest before.",
+    "variations": [
+      "afforestation"
+    ],
+    "emoji": "🌲🌱",
+    "id": "gl006"
+  },
+  "aggregation": {
+    "word": "aggregation",
+    "definition": "the joining together of smaller parts into a larger whole",
+    "variations": [
+      "aggregation",
+      "aggregate",
+      "aggregated"
+    ],
+    "emoji": "🧩➕",
+    "id": "gl007"
+  },
+  "agroforestry": {
+    "word": "agroforestry",
+    "definition": "A way of farming that combines trees with crops or animals on the same land.",
+    "variations": [
+      "agroforestry"
+    ],
+    "emoji": "🌳🚜",
+    "id": "gl008"
+  },
+  "altitude": {
+    "word": "altitude",
+    "definition": "the height of a place or object above the ground or sea level",
+    "variations": [
+      "altitudes"
+    ],
+    "emoji": "⛰️📏",
+    "id": "gl009"
+  },
+  "angular momentum": {
+    "word": "angular momentum",
+    "definition": "the turning movement of an object as it spins or revolves",
+    "variations": [
+      "angular momentum"
+    ],
+    "emoji": "🌀⚙️",
+    "id": "gl010"
+  },
+  "angular velocity": {
+    "word": "angular velocity",
+    "definition": "the speed at which something turns around a centre point",
+    "variations": [
+      "angular velocity"
+    ],
+    "emoji": "🌀⏱️",
+    "id": "gl011"
+  },
+  "Antarctic Circle": {
+    "word": "Antarctic Circle",
+    "definition": "the line of latitude at 66½° south, near the South Pole",
+    "variations": [
+      "Antarctic Circle"
+    ],
+    "emoji": "🧊🌍",
+    "id": "gl012"
+  },
+  "Antarctica": {
+    "word": "Antarctica",
+    "definition": "the continent around the South Pole, covered mostly by ice",
+    "variations": [
+      "Antarctica"
+    ],
+    "emoji": "❄️🧊🌍",
+    "id": "gl013"
+  },
+  "anticlockwise": {
+    "word": "anticlockwise",
+    "definition": "moving in the opposite direction to the hands of a clock",
+    "variations": [
+      "counterclockwise"
+    ],
+    "emoji": "🔄⏪",
+    "id": "gl014"
+  },
+  "aphelion": {
+    "word": "aphelion",
+    "definition": "the point in the Earth’s orbit when it is farthest from the Sun",
+    "variations": [
+      "aphelion",
+      "aphelia"
+    ],
+    "emoji": "🌍☀️↔️",
+    "id": "gl015"
+  },
+  "aquatic vegetation": {
+    "word": "aquatic vegetation",
+    "definition": "Plants that grow in water or very wet places.",
+    "variations": [
+      "aquatic vegetation"
+    ],
+    "emoji": "💧🌿",
+    "id": "gl016"
+  },
+  "aquifer": {
+    "word": "aquifer",
+    "definition": "a layer of rock or soil underground that holds water",
+    "variations": [
+      "aquifer",
+      "aquifers"
+    ],
+    "emoji": "💧🪨",
+    "id": "gl017"
+  },
+  "archipelago": {
+    "word": "archipelago",
+    "definition": "A group or chain of islands.",
+    "variations": [
+      "archipelago",
+      "archipelagoes",
+      "archipelagos"
+    ],
+    "emoji": "🏝️🏝️",
+    "id": "gl018"
+  },
+  "Arctic": {
+    "word": "Arctic",
+    "definition": "the region around the North Pole",
+    "variations": [
+      "Arctic"
+    ],
+    "emoji": "🧊🐻‍❄️",
+    "id": "gl019"
+  },
+  "Arctic Circle": {
+    "word": "Arctic Circle",
+    "definition": "the line of latitude at 66½° north, near the North Pole",
+    "variations": [
+      "Arctic Circle"
+    ],
+    "emoji": "❄️🌍",
+    "id": "gl020"
+  },
+  "aspect": {
+    "word": "aspect",
+    "definition": "The direction a slope faces, especially in relation to the sun.",
+    "variations": [
+      "aspect",
+      "aspects"
+    ],
+    "emoji": "☀️🧭",
+    "id": "gl021"
+  },
+  "asteroid": {
+    "word": "asteroid",
+    "definition": "a small rocky object that moves around the Sun",
+    "variations": [
+      "asteroid",
+      "asteroids"
+    ],
+    "emoji": "🪨🪐",
+    "id": "gl022"
+  },
+  "astronaut": {
+    "word": "astronaut",
+    "definition": "a person who travels into space",
+    "variations": [
+      "astronaut",
+      "astronauts"
+    ],
+    "emoji": "🚀🧑‍🚀",
+    "id": "gl023"
+  },
+  "astronomer": {
+    "word": "astronomer",
+    "definition": "a scientist who studies stars, planets, and space",
+    "variations": [
+      "astronomer",
+      "astronomers",
+      "astronomy"
+    ],
+    "emoji": "🔭⭐",
+    "id": "gl024"
+  },
+  "astronomy": {
+    "word": "astronomy",
+    "definition": "the study of space, stars, planets, and other objects beyond the Earth",
+    "variations": [
+      "astronomy",
+      "astronomical"
+    ],
+    "emoji": "🔭⭐🪐",
+    "id": "gl025"
+  },
+  "astrophysicist": {
+    "word": "astrophysicist",
+    "definition": "a scientist who studies stars, space, and the physical laws of the universe",
+    "variations": [
+      "astrophysicist",
+      "astrophysicists",
+      "astrophysics"
+    ],
+    "emoji": "🔭🌌",
+    "id": "gl026"
+  },
+  "astrophysics": {
+    "word": "astrophysics",
+    "definition": "the study of space using the laws of physics",
+    "variations": [
+      "astrophysics"
+    ],
+    "emoji": "🌌📐",
+    "id": "gl027"
+  },
+  "atmosphere": {
+    "word": "atmosphere",
+    "definition": "the layer of gases around the Earth or another planet",
+    "variations": [
+      "atmosphere",
+      "atmospheres"
+    ],
+    "emoji": "🌍💨",
+    "id": "gl028"
+  },
+  "atmospheric": {
+    "word": "atmospheric",
+    "definition": "related to the air and gases surrounding the Earth",
+    "variations": [
+      "atmospheric",
+      "atmosphere"
+    ],
+    "emoji": "☁️🌬️",
+    "id": "gl029"
+  },
+  "aviation": {
+    "word": "aviation",
+    "definition": "the flying and operation of aircraft",
+    "variations": [
+      "aviation"
+    ],
+    "emoji": "✈️🌍",
+    "id": "gl030"
+  },
+  "axis": {
+    "word": "axis",
+    "definition": "an imaginary line through the centre of the Earth on which it spins",
+    "variations": [
+      "axis",
+      "axes",
+      "axial"
+    ],
+    "emoji": "🌍📏",
+    "id": "gl031"
+  },
+  "basin": {
+    "word": "basin",
+    "definition": "a low bowl-shaped area of land where water collects",
+    "variations": [
+      "basin",
+      "basins"
+    ],
+    "emoji": "🥣💧",
+    "id": "gl032"
+  },
+  "beam": {
+    "word": "beam",
+    "definition": "a line or narrow flow of light",
+    "variations": [
+      "beams"
+    ],
+    "emoji": "🔦✨",
+    "id": "gl033"
+  },
+  "Big Bang theory": {
+    "word": "Big Bang theory",
+    "definition": "the idea that the universe began with a huge explosion and then expanded",
+    "variations": [
+      "Big Bang theory"
+    ],
+    "emoji": "💥🌌",
+    "id": "gl034"
+  },
+  "biodiversity": {
+    "word": "biodiversity",
+    "definition": "the variety of living things in an area or on Earth",
+    "variations": [
+      "biodiversity"
+    ],
+    "emoji": "🦋🌿🐘",
+    "id": "gl035"
+  },
+  "biotic factor": {
+    "word": "biotic factor",
+    "definition": "A living influence, such as people, animals, or other organisms, that affects plants and the environment.",
+    "variations": [
+      "biotic factor",
+      "biotic factors"
+    ],
+    "emoji": "🐾🌿",
+    "id": "gl036"
+  },
+  "block mountain": {
+    "word": "block mountain",
+    "definition": "a mountain formed when a large block of the Earth's crust is lifted between faults",
+    "variations": [
+      "block mountain",
+      "block mountains"
+    ],
+    "emoji": "⛰️🧱",
+    "id": "gl037"
+  },
+  "bordered": {
+    "word": "bordered",
+    "definition": "having a boundary next to something else, such as a sea, ocean, or country",
+    "variations": [
+      "border",
+      "borders",
+      "bordered",
+      "bordering"
+    ],
+    "emoji": "📍➡️",
+    "id": "gl038"
+  },
+  "boundary": {
+    "word": "boundary",
+    "definition": "a line or limit that marks the edge of an area",
+    "variations": [
+      "boundary",
+      "boundaries"
+    ],
+    "emoji": "🗺️🚧",
+    "id": "gl039"
+  },
+  "bulges": {
+    "word": "bulges",
+    "definition": "sticks out in a rounded way",
+    "variations": [
+      "bulge",
+      "bulged",
+      "bulging"
+    ],
+    "emoji": "🔵↔️",
+    "id": "gl040"
+  },
+  "cape": {
+    "word": "cape",
+    "definition": "a pointed piece of land that extends into a sea, ocean, lake, or river",
+    "variations": [
+      "cape",
+      "capes"
+    ],
+    "emoji": "📍🌊",
+    "id": "gl041"
+  },
+  "carbon dioxide": {
+    "word": "carbon dioxide",
+    "definition": "a gas in the air that plants use to make food and that can contribute to global warming when there is too much of it.",
+    "variations": [
+      "carbon dioxide"
+    ],
+    "emoji": "🌍💨",
+    "id": "gl042"
+  },
+  "carbon sink": {
+    "word": "carbon sink",
+    "definition": "a natural place, such as a forest, that absorbs more carbon dioxide than it releases.",
+    "variations": [
+      "carbon sink",
+      "carbon sinks"
+    ],
+    "emoji": "🌳🌍",
+    "id": "gl043"
+  },
+  "cartographer": {
+    "word": "cartographer",
+    "definition": "a person who makes maps",
+    "variations": [
+      "cartographer",
+      "cartographers",
+      "cartography"
+    ],
+    "emoji": "🗺️✏️",
+    "id": "gl044"
+  },
+  "cartography": {
+    "word": "cartography",
+    "definition": "the science or skill of making maps",
+    "variations": [
+      "cartography",
+      "cartographic"
+    ],
+    "emoji": "🗺️📍",
+    "id": "gl045"
+  },
+  "catastrophe": {
+    "word": "catastrophe",
+    "definition": "a terrible event that causes great damage or suffering.",
+    "variations": [
+      "catastrophe",
+      "catastrophes"
+    ],
+    "emoji": "⚠️🌪️",
+    "id": "gl046"
+  },
+  "celestial bodies": {
+    "word": "celestial bodies",
+    "definition": "natural objects in space, such as planets, moons, and stars",
+    "variations": [
+      "celestial body",
+      "celestial bodies"
+    ],
+    "emoji": "⭐🌙🪐",
+    "id": "gl047"
+  },
+  "celestial body": {
+    "word": "celestial body",
+    "definition": "a natural object in space, such as a planet, star, or moon",
+    "variations": [
+      "celestial bodies"
+    ],
+    "emoji": "🌌🪐",
+    "id": "gl048"
+  },
+  "centrifugal force": {
+    "word": "centrifugal force",
+    "definition": "the outward force felt by an object moving in a circle",
+    "variations": [
+      "centrifugal forces"
+    ],
+    "emoji": "🌀↗️",
+    "id": "gl049"
+  },
+  "channel": {
+    "word": "channel",
+    "definition": "the path or bed through which a river or stream flows",
+    "variations": [
+      "channel",
+      "channels"
+    ],
+    "emoji": "🛶💧",
+    "id": "gl050"
+  },
+  "charcoal": {
+    "word": "charcoal",
+    "definition": "a black material made by burning wood slowly, often used as fuel.",
+    "variations": [
+      "charcoal"
+    ],
+    "emoji": "🔥🪵",
+    "id": "gl051"
+  },
+  "circumference": {
+    "word": "circumference",
+    "definition": "the distance all the way around a circle or round object",
+    "variations": [
+      "circumferences"
+    ],
+    "emoji": "⭕📏",
+    "id": "gl052"
+  },
+  "circumnavigation": {
+    "word": "circumnavigation",
+    "definition": "the act of travelling all the way around the Earth or another object",
+    "variations": [
+      "circumnavigate",
+      "circumnavigated",
+      "circumnavigating"
+    ],
+    "emoji": "🌍🚢",
+    "id": "gl053"
+  },
+  "climate": {
+    "word": "climate",
+    "definition": "the usual weather conditions of a place over a long time",
+    "variations": [
+      "climate",
+      "climates",
+      "climatic"
+    ],
+    "emoji": "☀️🌧️",
+    "id": "gl054"
+  },
+  "climate change": {
+    "word": "climate change",
+    "definition": "long-term changes in the Earth's weather patterns and temperatures",
+    "variations": [
+      "climate change"
+    ],
+    "emoji": "🌍🌡️",
+    "id": "gl055"
+  },
+  "climatic": {
+    "word": "climatic",
+    "definition": "related to climate, especially the usual weather conditions of a place over a long time",
+    "variations": [
+      "climatic",
+      "climate"
+    ],
+    "emoji": "🌦️🌡️",
+    "id": "gl056"
+  },
+  "comet": {
+    "word": "comet",
+    "definition": "an object in space made of ice, dust, and rock that moves around the Sun",
+    "variations": [
+      "comet",
+      "comets"
+    ],
+    "emoji": "☄️✨",
+    "id": "gl057"
+  },
+  "competency": {
+    "word": "competency",
+    "definition": "an important skill or ability that helps someone do something well",
+    "variations": [
+      "competency",
+      "competencies"
+    ],
+    "emoji": "💡🛠️",
+    "id": "gl058"
+  },
+  "compressional force": {
+    "word": "compressional force",
+    "definition": "a force that pushes rocks together, often causing folding.",
+    "variations": [
+      "compressional force",
+      "compressional forces"
+    ],
+    "emoji": "↔️⛰️",
+    "id": "gl059"
+  },
+  "conservation": {
+    "word": "conservation",
+    "definition": "the protection and careful use of natural resources and the environment",
+    "variations": [
+      "conservation",
+      "conserve",
+      "conserving"
+    ],
+    "emoji": "🌱🛡️",
+    "id": "gl060"
+  },
+  "continent": {
+    "word": "continent",
+    "definition": "one of the Earth’s large main land areas",
+    "variations": [
+      "continent",
+      "continents"
+    ],
+    "emoji": "🌍🗺️",
+    "id": "gl061"
+  },
+  "continental shelf": {
+    "word": "continental shelf",
+    "definition": "The gently sloping shallow edge of a continent under the sea.",
+    "variations": [
+      "continental shelf",
+      "continental shelves"
+    ],
+    "emoji": "🌍🌊",
+    "id": "gl062"
+  },
+  "continental slope": {
+    "word": "continental slope",
+    "definition": "The steep part of the ocean floor that goes down from the continental shelf.",
+    "variations": [
+      "continental slope",
+      "continental slopes"
+    ],
+    "emoji": "⛰️🌊",
+    "id": "gl063"
+  },
+  "coral island": {
+    "word": "coral island",
+    "definition": "An island formed from coral material, often made from the remains of tiny sea animals.",
+    "variations": [
+      "coral island",
+      "coral islands"
+    ],
+    "emoji": "🪸🏝️",
+    "id": "gl064"
+  },
+  "Coriolis Effect": {
+    "word": "Coriolis Effect",
+    "definition": "the bending of winds and ocean currents caused by the Earth’s rotation",
+    "variations": [
+      "Coriolis effect"
+    ],
+    "emoji": "🌪️🌍",
+    "id": "gl065"
+  },
+  "cosmic": {
+    "word": "cosmic",
+    "definition": "related to space or the universe",
+    "variations": [
+      "cosmic"
+    ],
+    "emoji": "🌌✨",
+    "id": "gl066"
+  },
+  "cultural diversity": {
+    "word": "cultural diversity",
+    "definition": "the presence of many different cultures in one place or in the world",
+    "variations": [
+      "cultural diversity"
+    ],
+    "emoji": "🌍🧑‍🤝‍🧑",
+    "id": "gl067"
+  },
+  "current": {
+    "word": "current",
+    "definition": "a steady movement of water in a particular direction",
+    "variations": [
+      "currents",
+      "ocean current",
+      "ocean currents"
+    ],
+    "emoji": "🌊↪️",
+    "id": "gl068"
+  },
+  "dark matter": {
+    "word": "dark matter",
+    "definition": "matter in space that cannot be seen directly but is believed to exist because of its effects",
+    "variations": [
+      "dark matter"
+    ],
+    "emoji": "🌑🌌",
+    "id": "gl069"
+  },
+  "daylight": {
+    "word": "daylight",
+    "definition": "the natural light from the Sun during the day",
+    "variations": [
+      "daylight"
+    ],
+    "emoji": "🌞",
+    "id": "gl070"
+  },
+  "decompose": {
+    "word": "decompose",
+    "definition": "to break down naturally into simpler substances.",
+    "variations": [
+      "decompose",
+      "decomposes",
+      "decomposed",
+      "decomposing"
+    ],
+    "emoji": "🍂🪱",
+    "id": "gl071"
+  },
+  "deep sea plain": {
+    "word": "deep sea plain",
+    "definition": "A wide, mostly flat area at the bottom of the deep ocean.",
+    "variations": [
+      "deep sea plain",
+      "deep sea plains",
+      "deep sea-plain",
+      "deep sea-plains",
+      "abyssal plain",
+      "abyssal plains"
+    ],
+    "emoji": "🌊⬛",
+    "id": "gl072"
+  },
+  "deflection": {
+    "word": "deflection",
+    "definition": "a change in direction from a straight path",
+    "variations": [
+      "deflect",
+      "deflects",
+      "deflected",
+      "deflecting"
+    ],
+    "emoji": "↩️🌬️",
+    "id": "gl073"
+  },
+  "deforestation": {
+    "word": "deforestation",
+    "definition": "the cutting down and clearing of forests",
+    "variations": [
+      "deforestation"
+    ],
+    "emoji": "🌳🪓",
+    "id": "gl074"
+  },
+  "degradation": {
+    "word": "degradation",
+    "definition": "the process of something becoming damaged or of lower quality.",
+    "variations": [
+      "degradation"
+    ],
+    "emoji": "⚠️🌿",
+    "id": "gl075"
+  },
+  "depression": {
+    "word": "depression",
+    "definition": "a low area in the land surface",
+    "variations": [
+      "depression",
+      "depressions"
+    ],
+    "emoji": "⬇️🏞️",
+    "id": "gl076"
+  },
+  "desert": {
+    "word": "desert",
+    "definition": "A very dry area of land with little rainfall and very little vegetation.",
+    "variations": [
+      "desert",
+      "deserts"
+    ],
+    "emoji": "🏜️☀️",
+    "id": "gl077"
+  },
+  "dilution": {
+    "word": "dilution",
+    "definition": "The process of making a liquid less strong by adding more water or another liquid.",
+    "variations": [
+      "dilution",
+      "dilute",
+      "dilutes",
+      "diluted",
+      "diluting"
+    ],
+    "emoji": "💧🧪",
+    "id": "gl078"
+  },
+  "discharge": {
+    "word": "discharge",
+    "definition": "to flow out into another water body",
+    "variations": [
+      "discharge",
+      "discharges",
+      "discharged",
+      "discharging"
+    ],
+    "emoji": "💧➡️",
+    "id": "gl079"
+  },
+  "discipline": {
+    "word": "discipline",
+    "definition": "a branch of knowledge or a subject that people study",
+    "variations": [
+      "discipline",
+      "disciplines"
+    ],
+    "emoji": "📘🎓",
+    "id": "gl080"
+  },
+  "dispersion": {
+    "word": "dispersion",
+    "definition": "The spreading of seeds or plants to different places.",
+    "variations": [
+      "dispersion",
+      "disperse",
+      "disperses",
+      "dispersed",
+      "dispersing"
+    ],
+    "emoji": "🌰🍃",
+    "id": "gl081"
+  },
+  "distribution": {
+    "word": "distribution",
+    "definition": "the way people, things, or features are spread over an area",
+    "variations": [
+      "distribution",
+      "distributions",
+      "distribute",
+      "distributed"
+    ],
+    "emoji": "📍🗺️",
+    "id": "gl082"
+  },
+  "dormant": {
+    "word": "dormant",
+    "definition": "not active at the moment, but able to become active again.",
+    "variations": [
+      "dormant"
+    ],
+    "emoji": "🌋😴",
+    "id": "gl083"
+  },
+  "drain": {
+    "word": "drain",
+    "definition": "to carry water away from an area into a river, lake, or sea",
+    "variations": [
+      "drain",
+      "drains",
+      "drained",
+      "draining"
+    ],
+    "emoji": "💧➡️",
+    "id": "gl084"
+  },
+  "drought": {
+    "word": "drought",
+    "definition": "a long period with very little or no rain.",
+    "variations": [
+      "drought",
+      "droughts"
+    ],
+    "emoji": "☀️💧🌾",
+    "id": "gl085"
+  },
+  "dynamic": {
+    "word": "dynamic",
+    "definition": "active and always changing or moving",
+    "variations": [
+      "dynamically"
+    ],
+    "emoji": "⚡🔄",
+    "id": "gl086"
+  },
+  "earth’s surface": {
+    "word": "earth’s surface",
+    "definition": "the outside part of the Earth, including land and water",
+    "variations": [
+      "earth’s surface",
+      "Earth’s surface"
+    ],
+    "emoji": "🌍🏞️",
+    "id": "gl087"
+  },
+  "eclipse": {
+    "word": "eclipse",
+    "definition": "an event in which light from the Sun or Moon is partly or fully blocked",
+    "variations": [
+      "eclipse",
+      "eclipses"
+    ],
+    "emoji": "🌑☀️",
+    "id": "gl088"
+  },
+  "ecosystem": {
+    "word": "ecosystem",
+    "definition": "A community of living things and the environment in which they live and interact.",
+    "variations": [
+      "ecosystem",
+      "ecosystems"
+    ],
+    "emoji": "🌍🌱🐘",
+    "id": "gl089"
+  },
+  "edaphic factor": {
+    "word": "edaphic factor",
+    "definition": "A soil-related factor that affects the type and growth of plants in an area.",
+    "variations": [
+      "edaphic factor",
+      "edaphic factors"
+    ],
+    "emoji": "soil🌱",
+    "id": "gl090"
+  },
+  "elevation": {
+    "word": "elevation",
+    "definition": "the height of land above sea level",
+    "variations": [
+      "elevation",
+      "elevations"
+    ],
+    "emoji": "📏⛰️",
+    "id": "gl091"
+  },
+  "elliptical": {
+    "word": "elliptical",
+    "definition": "having an oval shape, not a perfect circle",
+    "variations": [
+      "elliptical",
+      "ellipse"
+    ],
+    "emoji": "⭕🥚",
+    "id": "gl092"
+  },
+  "embryos": {
+    "word": "embryos",
+    "definition": "early forms of something that are still developing",
+    "variations": [
+      "embryo",
+      "embryos"
+    ],
+    "emoji": "🌱🪐",
+    "id": "gl093"
+  },
+  "environment": {
+    "word": "environment",
+    "definition": "the natural and human-made surroundings in which people, animals, and plants live",
+    "variations": [
+      "environment",
+      "environments",
+      "environmental"
+    ],
+    "emoji": "🌱🏞️",
+    "id": "gl094"
+  },
+  "equator": {
+    "word": "equator",
+    "definition": "the imaginary line around the middle of the Earth that divides it into the Northern and Southern Hemispheres",
+    "variations": [
+      "equator",
+      "equatorial"
+    ],
+    "emoji": "🌍➖",
+    "id": "gl095"
+  },
+  "equinox": {
+    "word": "equinox",
+    "definition": "the time of year when day and night are nearly equal in length everywhere on Earth",
+    "variations": [
+      "equinox",
+      "equinoxes"
+    ],
+    "emoji": "☀️🌗",
+    "id": "gl096"
+  },
+  "erosion": {
+    "word": "erosion",
+    "definition": "the wearing away and carrying off of soil and rock by water, wind, or ice",
+    "variations": [
+      "erosion",
+      "eroded",
+      "eroding"
+    ],
+    "emoji": "🌬️💧🪨",
+    "id": "gl097"
+  },
+  "eruption": {
+    "word": "eruption",
+    "definition": "the sudden coming out of lava, ash, and gases from a volcano",
+    "variations": [
+      "eruption",
+      "eruptions"
+    ],
+    "emoji": "🌋💥",
+    "id": "gl098"
+  },
+  "escarpment": {
+    "word": "escarpment",
+    "definition": "a long steep slope or cliff at the edge of high land",
+    "variations": [
+      "escarpment",
+      "escarpments"
+    ],
+    "emoji": "⛰️📉",
+    "id": "gl099"
+  },
+  "evaporation": {
+    "word": "evaporation",
+    "definition": "The process in which water changes into vapour because of heat.",
+    "variations": [
+      "evaporation",
+      "evaporate",
+      "evaporates",
+      "evaporated",
+      "evaporating"
+    ],
+    "emoji": "☀️💨💧",
+    "id": "gl100"
+  },
+  "evolved": {
+    "word": "evolved",
+    "definition": "changed slowly over a long time",
+    "variations": [
+      "evolve",
+      "evolved",
+      "evolution"
+    ],
+    "emoji": "🕰️🔄",
+    "id": "gl101"
+  },
+  "expansion": {
+    "word": "expansion",
+    "definition": "the process of becoming larger or spreading out",
+    "variations": [
+      "expansion",
+      "expand",
+      "expanded"
+    ],
+    "emoji": "↔️🌌",
+    "id": "gl102"
+  },
+  "exploitation": {
+    "word": "exploitation",
+    "definition": "the use of something, often too much or in an unfair or harmful way",
+    "variations": [
+      "exploitation",
+      "exploit",
+      "exploited"
+    ],
+    "emoji": "⚠️🌍",
+    "id": "gl103"
+  },
+  "fault": {
+    "word": "fault",
+    "definition": "a crack in the Earth's crust where movement has taken place",
+    "variations": [
+      "fault",
+      "faults"
+    ],
+    "emoji": "🌍⚡",
+    "id": "gl104"
+  },
+  "fauna": {
+    "word": "fauna",
+    "definition": "the animal life of a place or region",
+    "variations": [
+      "fauna"
+    ],
+    "emoji": "🦁🐘",
+    "id": "gl105"
+  },
+  "Ferrel’s Law": {
+    "word": "Ferrel’s Law",
+    "definition": "the rule that says moving air and water turn right in the Northern Hemisphere and left in the Southern Hemisphere because of Earth’s rotation",
+    "variations": [
+      "Ferrels Law",
+      "Ferrel law"
+    ],
+    "emoji": "🌍🌬️🌊",
+    "id": "gl106"
+  },
+  "fertility": {
+    "word": "fertility",
+    "definition": "the quality of soil being rich and able to support plant growth well.",
+    "variations": [
+      "fertility"
+    ],
+    "emoji": "🌱🌾",
+    "id": "gl107"
+  },
+  "flora": {
+    "word": "flora",
+    "definition": "the plant life of a place or region",
+    "variations": [
+      "flora"
+    ],
+    "emoji": "🌸🌿",
+    "id": "gl108"
+  },
+  "fold mountain": {
+    "word": "fold mountain",
+    "definition": "a mountain formed when layers of the Earth's crust are pushed and folded",
+    "variations": [
+      "fold mountain",
+      "fold mountains"
+    ],
+    "emoji": "🏔️📚",
+    "id": "gl109"
+  },
+  "forest": {
+    "word": "forest",
+    "definition": "A large area of land covered mainly with many trees.",
+    "variations": [
+      "forest",
+      "forests"
+    ],
+    "emoji": "🌲🌳",
+    "id": "gl110"
+  },
+  "freezing point": {
+    "word": "freezing point",
+    "definition": "the temperature at which water turns into ice",
+    "variations": [
+      "freezing point"
+    ],
+    "emoji": "🧊🌡️",
+    "id": "gl111"
+  },
+  "fresh water": {
+    "word": "fresh water",
+    "definition": "water that is not salty and can be found in rivers and many lakes",
+    "variations": [
+      "fresh water"
+    ],
+    "emoji": "💧🚰",
+    "id": "gl112"
+  },
+  "galaxy": {
+    "word": "galaxy",
+    "definition": "a huge group of stars, gas, and dust held together in space",
+    "variations": [
+      "galaxies"
+    ],
+    "emoji": "🌌⭐",
+    "id": "gl113"
+  },
+  "gas giants": {
+    "word": "gas giants",
+    "definition": "very large planets mostly made of gases, such as Jupiter and Saturn",
+    "variations": [
+      "gas giant",
+      "gas giants"
+    ],
+    "emoji": "🪐💨",
+    "id": "gl114"
+  },
+  "geographical": {
+    "word": "geographical",
+    "definition": "related to the Earth’s surface, places, and physical features",
+    "variations": [
+      "geographical",
+      "geography"
+    ],
+    "emoji": "🗺️🌍",
+    "id": "gl115"
+  },
+  "geography": {
+    "word": "geography",
+    "definition": "the study of the Earth, its features, places, and how people interact with the environment",
+    "variations": [
+      "geography",
+      "geographical"
+    ],
+    "emoji": "🌍🗺️",
+    "id": "gl116"
+  },
+  "geoid": {
+    "word": "geoid",
+    "definition": "the Earth’s real shape, which is almost round but slightly uneven and flattened at the poles",
+    "variations": [
+      "geoid",
+      "geoids"
+    ],
+    "emoji": "🌍🗺️",
+    "id": "gl117"
+  },
+  "geologist": {
+    "word": "geologist",
+    "definition": "a scientist who studies rocks, the earth, and how the earth changes",
+    "variations": [
+      "geologist",
+      "geologists",
+      "geology"
+    ],
+    "emoji": "🪨🌍",
+    "id": "gl118"
+  },
+  "geomorphic": {
+    "word": "geomorphic",
+    "definition": "related to the shaping and changing of the Earth’s surface",
+    "variations": [
+      "geomorphic"
+    ],
+    "emoji": "⛰️🌍",
+    "id": "gl119"
+  },
+  "gibbous": {
+    "word": "gibbous",
+    "definition": "describing the Moon when more than half of it is lit, but it is not full",
+    "variations": [
+      "gibbous"
+    ],
+    "emoji": "🌔🌖",
+    "id": "gl120"
+  },
+  "glacier": {
+    "word": "glacier",
+    "definition": "a large slow-moving mass of ice on land",
+    "variations": [
+      "glacier",
+      "glaciers"
+    ],
+    "emoji": "🧊🏔️",
+    "id": "gl121"
+  },
+  "global warming": {
+    "word": "global warming",
+    "definition": "the gradual increase in the Earth’s temperature.",
+    "variations": [
+      "global warming"
+    ],
+    "emoji": "🌍🔥",
+    "id": "gl122"
+  },
+  "Gondwana": {
+    "word": "Gondwana",
+    "definition": "the ancient southern landmass that later formed several present-day continents",
+    "variations": [
+      "Gondwana"
+    ],
+    "emoji": "🌍🗺️",
+    "id": "gl123"
+  },
+  "grassland": {
+    "word": "grassland",
+    "definition": "Land where grasses are the main type of vegetation.",
+    "variations": [
+      "grassland",
+      "grasslands"
+    ],
+    "emoji": "🌾🌿",
+    "id": "gl124"
+  },
+  "gravitational attraction": {
+    "word": "gravitational attraction",
+    "definition": "the pulling force between objects because they have mass",
+    "variations": [
+      "gravitational attraction",
+      "gravity",
+      "gravitational"
+    ],
+    "emoji": "🧲🌍🌕",
+    "id": "gl125"
+  },
+  "gravitational pull": {
+    "word": "gravitational pull",
+    "definition": "the force that attracts objects towards the Earth or another body in space",
+    "variations": [
+      "gravity",
+      "gravitational force"
+    ],
+    "emoji": "🌍🧲",
+    "id": "gl126"
+  },
+  "gravity": {
+    "word": "gravity",
+    "definition": "the force that pulls objects towards the Earth or towards each other",
+    "variations": [
+      "gravity",
+      "gravitational"
+    ],
+    "emoji": "🌍⬇️",
+    "id": "gl127"
+  },
+  "great circle": {
+    "word": "great circle",
+    "definition": "a circle on the Earth that divides it into two equal halves and shows the shortest route between far places",
+    "variations": [
+      "great circle",
+      "great circles"
+    ],
+    "emoji": "⭕✈️🌍",
+    "id": "gl128"
+  },
+  "greenhouse gas": {
+    "word": "greenhouse gas",
+    "definition": "a gas that traps heat in the atmosphere and makes the Earth warmer.",
+    "variations": [
+      "greenhouse gas",
+      "greenhouse gases"
+    ],
+    "emoji": "🌍☀️🔥",
+    "id": "gl129"
+  },
+  "Greenwich Mean Time": {
+    "word": "Greenwich Mean Time",
+    "definition": "the standard time at Greenwich used as a world reference for time",
+    "variations": [
+      "Greenwich Mean Time",
+      "GMT"
+    ],
+    "emoji": "🕛🌍",
+    "id": "gl130"
+  },
+  "Greenwich Meridian": {
+    "word": "Greenwich Meridian",
+    "definition": "the meridian at 0° longitude that passes through Greenwich and is used as the starting line for measuring longitude",
+    "variations": [
+      "Greenwich Meridian"
+    ],
+    "emoji": "🌍📏",
+    "id": "gl131"
+  },
+  "gulf": {
+    "word": "gulf",
+    "definition": "a part of the sea or ocean that cuts into the land",
+    "variations": [
+      "gulf",
+      "gulfs"
+    ],
+    "emoji": "🌊📍",
+    "id": "gl132"
+  },
+  "habitat": {
+    "word": "habitat",
+    "definition": "the natural home of a plant or animal",
+    "variations": [
+      "habitat",
+      "habitats"
+    ],
+    "emoji": "🏡🐾🌿",
+    "id": "gl133"
+  },
+  "heavenly bodies": {
+    "word": "heavenly bodies",
+    "definition": "natural objects in space such as the sun, moon, stars, and planets",
+    "variations": [
+      "heavenly body",
+      "heavenly bodies"
+    ],
+    "emoji": "🌙⭐🪐",
+    "id": "gl134"
+  },
+  "hemisphere": {
+    "word": "hemisphere",
+    "definition": "one half of the Earth, usually divided into northern and southern halves",
+    "variations": [
+      "hemisphere",
+      "hemispheres"
+    ],
+    "emoji": "🌍🧭",
+    "id": "gl135"
+  },
+  "heritage": {
+    "word": "heritage",
+    "definition": "the traditions, features, and resources passed down from the past that are important to a country or group",
+    "variations": [
+      "heritage"
+    ],
+    "emoji": "🏛️🌍",
+    "id": "gl136"
+  },
+  "horizon": {
+    "word": "horizon",
+    "definition": "the line where the land or sea seems to meet the sky",
+    "variations": [
+      "horizons"
+    ],
+    "emoji": "🌅👀",
+    "id": "gl137"
+  },
+  "human geography": {
+    "word": "human geography",
+    "definition": "the branch of geography that studies people, their activities, and how they interact with the environment",
+    "variations": [
+      "human geography"
+    ],
+    "emoji": "👨‍👩‍👧‍👦🏙️🌍",
+    "id": "gl138"
+  },
+  "hypothesis": {
+    "word": "hypothesis",
+    "definition": "an idea or explanation that can be tested to see if it is true",
+    "variations": [
+      "hypotheses"
+    ],
+    "emoji": "💡🧪",
+    "id": "gl139"
+  },
+  "ice sheet": {
+    "word": "ice sheet",
+    "definition": "a very large thick mass of ice covering land for a long time",
+    "variations": [
+      "ice sheet",
+      "ice sheets"
+    ],
+    "emoji": "🧊❄️",
+    "id": "gl140"
+  },
+  "illuminated": {
+    "word": "illuminated",
+    "definition": "lit up by light",
+    "variations": [
+      "illuminate",
+      "illuminated",
+      "illuminates",
+      "illumination"
+    ],
+    "emoji": "💡🌕",
+    "id": "gl141"
+  },
+  "inhabited": {
+    "word": "inhabited",
+    "definition": "lived in by people or animals",
+    "variations": [
+      "inhabited",
+      "inhabit"
+    ],
+    "emoji": "🏠👥",
+    "id": "gl142"
+  },
+  "inland": {
+    "word": "inland",
+    "definition": "away from the sea or coast",
+    "variations": [
+      "inland"
+    ],
+    "emoji": "🏞️🌍",
+    "id": "gl143"
+  },
+  "integrative": {
+    "word": "integrative",
+    "definition": "combining different parts or subjects into one connected whole",
+    "variations": [
+      "integrative",
+      "integrate",
+      "integrated"
+    ],
+    "emoji": "🧩🔗",
+    "id": "gl144"
+  },
+  "interdisciplinary": {
+    "word": "interdisciplinary",
+    "definition": "involving two or more subjects or fields of study working together",
+    "variations": [
+      "interdisciplinary"
+    ],
+    "emoji": "📚🔗",
+    "id": "gl145"
+  },
+  "International Date Line": {
+    "word": "International Date Line",
+    "definition": "an imaginary line near 180° longitude where the date changes by one day when crossed",
+    "variations": [
+      "IDL",
+      "International Date Lines"
+    ],
+    "emoji": "📅🌍",
+    "id": "gl146"
+  },
+  "interstellar dust": {
+    "word": "interstellar dust",
+    "definition": "tiny particles of dust found in the space between stars",
+    "variations": [
+      "interstellar dust",
+      "inter-stellar dust"
+    ],
+    "emoji": "✨🌌",
+    "id": "gl147"
+  },
+  "island": {
+    "word": "island",
+    "definition": "a piece of land completely surrounded by water",
+    "variations": [
+      "island",
+      "islands"
+    ],
+    "emoji": "🏝️🌊",
+    "id": "gl148"
+  },
+  "isthmus": {
+    "word": "isthmus",
+    "definition": "a narrow strip of land that joins two larger land areas",
+    "variations": [
+      "isthmus",
+      "isthmuses"
+    ],
+    "emoji": "🗺️🔗",
+    "id": "gl149"
+  },
+  "lake": {
+    "word": "lake",
+    "definition": "a large area of water surrounded by land",
+    "variations": [
+      "lake",
+      "lakes"
+    ],
+    "emoji": "🏞️💧",
+    "id": "gl150"
+  },
+  "landform": {
+    "word": "landform",
+    "definition": "a natural feature of the Earth's surface, such as a mountain, valley, or plateau",
+    "variations": [
+      "landform",
+      "landforms"
+    ],
+    "emoji": "⛰️🏞️",
+    "id": "gl151"
+  },
+  "landmass": {
+    "word": "landmass",
+    "definition": "a very large area of land, such as a continent or a big island",
+    "variations": [
+      "landmass",
+      "landmasses"
+    ],
+    "emoji": "🗺️🏔️",
+    "id": "gl152"
+  },
+  "landslide": {
+    "word": "landslide",
+    "definition": "a sudden movement of soil, rock, and debris down a slope.",
+    "variations": [
+      "landslide",
+      "landslides"
+    ],
+    "emoji": "⛰️⬇️",
+    "id": "gl153"
+  },
+  "lapse rate": {
+    "word": "lapse rate",
+    "definition": "the rate at which air temperature decreases as altitude increases.",
+    "variations": [
+      "lapse rate"
+    ],
+    "emoji": "🌡️⛰️",
+    "id": "gl154"
+  },
+  "latitude": {
+    "word": "latitude",
+    "definition": "the distance of a place north or south of the equator, measured in degrees",
+    "variations": [
+      "latitude",
+      "latitudes"
+    ],
+    "emoji": "🗺️📏",
+    "id": "gl155"
+  },
+  "Laurasia": {
+    "word": "Laurasia",
+    "definition": "the ancient northern landmass that later formed parts of today’s continents",
+    "variations": [
+      "Laurasia"
+    ],
+    "emoji": "🗺️🌍",
+    "id": "gl156"
+  },
+  "lava": {
+    "word": "lava",
+    "definition": "hot melted rock that comes out onto the Earth's surface from a volcano",
+    "variations": [
+      "lava"
+    ],
+    "emoji": "🌋🔥",
+    "id": "gl157"
+  },
+  "leap year": {
+    "word": "leap year",
+    "definition": "a year with 366 days instead of 365, happening once every four years",
+    "variations": [
+      "leap year",
+      "leap years"
+    ],
+    "emoji": "📅➕",
+    "id": "gl158"
+  },
+  "light pollution": {
+    "word": "light pollution",
+    "definition": "too much unwanted artificial light that makes it hard to see the night sky",
+    "variations": [
+      "light pollution"
+    ],
+    "emoji": "💡🌃",
+    "id": "gl159"
+  },
+  "Local Mean Time": {
+    "word": "Local Mean Time",
+    "definition": "the time recorded for places on the same longitude",
+    "variations": [
+      "Local Mean Time",
+      "LMT"
+    ],
+    "emoji": "⏰🌍",
+    "id": "gl160"
+  },
+  "local time": {
+    "word": "local time",
+    "definition": "the time used in a particular place based on its position on the Earth",
+    "variations": [
+      "local time",
+      "local times"
+    ],
+    "emoji": "🕒📍",
+    "id": "gl161"
+  },
+  "longitude": {
+    "word": "longitude",
+    "definition": "the distance of a place east or west of the prime meridian, measured in degrees",
+    "variations": [
+      "longitude",
+      "longitudes"
+    ],
+    "emoji": "🗺️📍",
+    "id": "gl162"
+  },
+  "lunar eclipse": {
+    "word": "lunar eclipse",
+    "definition": "an eclipse that happens when the Earth moves between the Sun and the Moon, making the Earth’s shadow fall on the Moon",
+    "variations": [
+      "lunar eclipse",
+      "lunar eclipses"
+    ],
+    "emoji": "🌍🌕🌑",
+    "id": "gl163"
+  },
+  "magma": {
+    "word": "magma",
+    "definition": "hot melted rock beneath the Earth's surface",
+    "variations": [
+      "magma"
+    ],
+    "emoji": "🔥🌍",
+    "id": "gl164"
+  },
+  "man-made": {
+    "word": "man-made",
+    "definition": "made by people rather than formed naturally",
+    "variations": [
+      "man-made"
+    ],
+    "emoji": "🛠️🏗️",
+    "id": "gl165"
+  },
+  "marine": {
+    "word": "marine",
+    "definition": "related to the sea or ocean.",
+    "variations": [
+      "marine"
+    ],
+    "emoji": "🌊🐟",
+    "id": "gl166"
+  },
+  "mass": {
+    "word": "mass",
+    "definition": "the amount of matter in an object",
+    "variations": [
+      "masses"
+    ],
+    "emoji": "⚖️🪨",
+    "id": "gl167"
+  },
+  "medicinal": {
+    "word": "medicinal",
+    "definition": "having healing qualities or being used as medicine.",
+    "variations": [
+      "medicinal"
+    ],
+    "emoji": "💊🌿",
+    "id": "gl168"
+  },
+  "meridian": {
+    "word": "meridian",
+    "definition": "an imaginary line running from the North Pole to the South Pole, used to show longitude",
+    "variations": [
+      "meridian",
+      "meridians"
+    ],
+    "emoji": "🌍🧭",
+    "id": "gl169"
+  },
+  "meridians": {
+    "word": "meridians",
+    "definition": "imaginary lines that run from the North Pole to the South Pole and are used to show longitude",
+    "variations": [
+      "meridian",
+      "meridian lines"
+    ],
+    "emoji": "🌍📍",
+    "id": "gl170"
+  },
+  "meteorite": {
+    "word": "meteorite",
+    "definition": "a piece of rock from space that falls to the Earth's surface",
+    "variations": [
+      "meteorite",
+      "meteorites"
+    ],
+    "emoji": "☄️🪨",
+    "id": "gl171"
+  },
+  "meteorologist": {
+    "word": "meteorologist",
+    "definition": "a scientist who studies weather and the atmosphere",
+    "variations": [
+      "meteorologist",
+      "meteorologists",
+      "meteorology"
+    ],
+    "emoji": "🌦️📡",
+    "id": "gl172"
+  },
+  "microclimate": {
+    "word": "microclimate",
+    "definition": "The climate of a small area that may be different from the area around it.",
+    "variations": [
+      "microclimate",
+      "microclimates"
+    ],
+    "emoji": "🌤️📍",
+    "id": "gl173"
+  },
+  "mid-ocean ridge": {
+    "word": "mid-ocean ridge",
+    "definition": "A long raised part of the ocean floor found in the middle of the ocean.",
+    "variations": [
+      "mid-ocean ridge",
+      "mid-ocean ridges",
+      "mid-oceanic ridge",
+      "mid-oceanic ridges"
+    ],
+    "emoji": "🌊🪨",
+    "id": "gl174"
+  },
+  "Milky Way": {
+    "word": "Milky Way",
+    "definition": "the galaxy that contains our solar system",
+    "variations": [
+      "Milky Way"
+    ],
+    "emoji": "🌌⭐",
+    "id": "gl175"
+  },
+  "mountain": {
+    "word": "mountain",
+    "definition": "a very high natural area of land rising above the surrounding land",
+    "variations": [
+      "mountain",
+      "mountains"
+    ],
+    "emoji": "⛰️🏔️",
+    "id": "gl176"
+  },
+  "mouth": {
+    "word": "mouth",
+    "definition": "the place where a river flows into a sea, lake, or another river",
+    "variations": [
+      "mouth",
+      "mouths"
+    ],
+    "emoji": "🏞️🌊",
+    "id": "gl177"
+  },
+  "natural resources": {
+    "word": "natural resources",
+    "definition": "materials from nature that people use, such as water, soil, forests, and minerals",
+    "variations": [
+      "natural resource",
+      "natural resources"
+    ],
+    "emoji": "💧🌲⛏️",
+    "id": "gl178"
+  },
+  "natural vegetation": {
+    "word": "natural vegetation",
+    "definition": "Plants that grow in an area without being planted or controlled by people.",
+    "variations": [
+      "natural vegetation"
+    ],
+    "emoji": "🌳🌿",
+    "id": "gl179"
+  },
+  "navigation": {
+    "word": "navigation",
+    "definition": "the skill of finding the way from one place to another",
+    "variations": [
+      "navigation",
+      "navigate",
+      "navigating"
+    ],
+    "emoji": "🧭🚢",
+    "id": "gl180"
+  },
+  "navigator": {
+    "word": "navigator",
+    "definition": "a person who plans or directs the route of a ship, aircraft, or journey",
+    "variations": [
+      "navigators",
+      "navigate",
+      "navigation"
+    ],
+    "emoji": "🧭🚢",
+    "id": "gl181"
+  },
+  "nebula": {
+    "word": "nebula",
+    "definition": "a large cloud of gas and dust in space",
+    "variations": [
+      "nebula",
+      "nebulae",
+      "nebular"
+    ],
+    "emoji": "🌌☁️",
+    "id": "gl182"
+  },
+  "nutrients": {
+    "word": "nutrients",
+    "definition": "substances that living things need to grow and stay healthy",
+    "variations": [
+      "nutrient",
+      "nutrients"
+    ],
+    "emoji": "🌱💧",
+    "id": "gl183"
+  },
+  "oblate spheroid": {
+    "word": "oblate spheroid",
+    "definition": "a sphere-like shape that is slightly flat at the top and bottom",
+    "variations": [
+      "oblate spheroids"
+    ],
+    "emoji": "🌍🔵",
+    "id": "gl184"
+  },
+  "ocean": {
+    "word": "ocean",
+    "definition": "a very large body of salt water covering much of the Earth",
+    "variations": [
+      "ocean",
+      "oceans"
+    ],
+    "emoji": "🌊🌍",
+    "id": "gl185"
+  },
+  "ocean floor": {
+    "word": "ocean floor",
+    "definition": "the bottom surface of the ocean",
+    "variations": [
+      "ocean floor",
+      "ocean floors"
+    ],
+    "emoji": "🌊⬇️",
+    "id": "gl186"
+  },
+  "orbit": {
+    "word": "orbit",
+    "definition": "the path followed by a planet, moon, or satellite as it moves around another object in space",
+    "variations": [
+      "orbit",
+      "orbits",
+      "orbital"
+    ],
+    "emoji": "🪐🔄",
+    "id": "gl187"
+  },
+  "orbital paths": {
+    "word": "orbital paths",
+    "definition": "the curved routes followed by planets or other objects as they move around another object in space",
+    "variations": [
+      "orbital path",
+      "orbital paths",
+      "orbit",
+      "orbits"
+    ],
+    "emoji": "🪐⭕",
+    "id": "gl188"
+  },
+  "organic matter": {
+    "word": "organic matter",
+    "definition": "dead plant and animal material in the soil.",
+    "variations": [
+      "organic matter"
+    ],
+    "emoji": "🍂🌱",
+    "id": "gl189"
+  },
+  "organism": {
+    "word": "organism",
+    "definition": "a living thing, such as a plant, animal, or microbe.",
+    "variations": [
+      "organism",
+      "organisms"
+    ],
+    "emoji": "🦠🌱🐾",
+    "id": "gl190"
+  },
+  "origin": {
+    "word": "origin",
+    "definition": "the beginning or source of something",
+    "variations": [
+      "origin",
+      "origins"
+    ],
+    "emoji": "🌱⏳",
+    "id": "gl191"
+  },
+  "oxygen": {
+    "word": "oxygen",
+    "definition": "a gas in the air that living things need for breathing.",
+    "variations": [
+      "oxygen"
+    ],
+    "emoji": "🫁🌬️",
+    "id": "gl192"
+  },
+  "ozone": {
+    "word": "ozone",
+    "definition": "a gas in the atmosphere that helps protect the Earth from harmful rays from the Sun",
+    "variations": [
+      "ozone layer"
+    ],
+    "emoji": "🌍🛡️",
+    "id": "gl193"
+  },
+  "Pangaea": {
+    "word": "Pangaea",
+    "definition": "the ancient supercontinent that once joined most of the Earth’s land together",
+    "variations": [
+      "Pangaea"
+    ],
+    "emoji": "🦕🌍",
+    "id": "gl194"
+  },
+  "parallel": {
+    "word": "parallel",
+    "definition": "an imaginary line around the Earth running east-west, used to show latitude",
+    "variations": [
+      "parallel",
+      "parallels"
+    ],
+    "emoji": "🌍📏",
+    "id": "gl195"
+  },
+  "parallels": {
+    "word": "parallels",
+    "definition": "imaginary lines that run around the Earth from east to west and are used to show latitude",
+    "variations": [
+      "parallel",
+      "parallel lines"
+    ],
+    "emoji": "🌍〰️",
+    "id": "gl196"
+  },
+  "particulate matter": {
+    "word": "particulate matter",
+    "definition": "very tiny solid or liquid particles in the air that can be harmful to health.",
+    "variations": [
+      "particulate matter"
+    ],
+    "emoji": "🌫️🫁",
+    "id": "gl197"
+  },
+  "peninsula": {
+    "word": "peninsula",
+    "definition": "a piece of land almost surrounded by water but still joined to the mainland",
+    "variations": [
+      "peninsula",
+      "peninsulas"
+    ],
+    "emoji": "🏞️🌊",
+    "id": "gl198"
+  },
+  "penumbra": {
+    "word": "penumbra",
+    "definition": "the lighter outer part of a shadow, where light is only partly blocked",
+    "variations": [
+      "penumbra",
+      "penumbrae"
+    ],
+    "emoji": "🌘⬜",
+    "id": "gl199"
+  },
+  "perihelion": {
+    "word": "perihelion",
+    "definition": "the point in the Earth’s orbit when it is nearest to the Sun",
+    "variations": [
+      "perihelion",
+      "perihelia"
+    ],
+    "emoji": "🌍☀️📍",
+    "id": "gl200"
+  },
+  "perpendicular": {
+    "word": "perpendicular",
+    "definition": "standing or lying at a right angle of 90 degrees",
+    "variations": [
+      "perpendicularly"
+    ],
+    "emoji": "📐⟂",
+    "id": "gl201"
+  },
+  "pharmaceuticals": {
+    "word": "pharmaceuticals",
+    "definition": "medicines made and sold for treating illness.",
+    "variations": [
+      "pharmaceutical",
+      "pharmaceuticals"
+    ],
+    "emoji": "💊🧪",
+    "id": "gl202"
+  },
+  "phase": {
+    "word": "phase",
+    "definition": "one of the changing shapes of the Moon seen from Earth during its monthly cycle",
+    "variations": [
+      "phase",
+      "phases"
+    ],
+    "emoji": "🌒🌕🌘",
+    "id": "gl203"
+  },
+  "phenomena": {
+    "word": "phenomena",
+    "definition": "things or events that happen and can be observed or studied",
+    "variations": [
+      "phenomenon",
+      "phenomena"
+    ],
+    "emoji": "👀✨",
+    "id": "gl204"
+  },
+  "philosopher": {
+    "word": "philosopher",
+    "definition": "a person who studies and thinks deeply about knowledge, life, and ideas",
+    "variations": [
+      "philosopher",
+      "philosophers"
+    ],
+    "emoji": "🤔📚",
+    "id": "gl205"
+  },
+  "photosynthesis": {
+    "word": "photosynthesis",
+    "definition": "The process by which green plants use sunlight to make their own food.",
+    "variations": [
+      "photosynthesis"
+    ],
+    "emoji": "☀️🌿",
+    "id": "gl206"
+  },
+  "physical geography": {
+    "word": "physical geography",
+    "definition": "the branch of geography that studies natural features of the Earth, such as land, water, weather, plants, and animals",
+    "variations": [
+      "physical geography"
+    ],
+    "emoji": "⛰️🌊🌍",
+    "id": "gl207"
+  },
+  "plain": {
+    "word": "plain",
+    "definition": "a large area of flat or gently rolling land",
+    "variations": [
+      "plain",
+      "plains"
+    ],
+    "emoji": "🌾🏞️",
+    "id": "gl208"
+  },
+  "planetesimal": {
+    "word": "planetesimal",
+    "definition": "a very small early planet that can join with others to form a bigger planet",
+    "variations": [
+      "planetesimal",
+      "planetesimals"
+    ],
+    "emoji": "🪨🪐",
+    "id": "gl209"
+  },
+  "planted vegetation": {
+    "word": "planted vegetation",
+    "definition": "Plants that people grow on purpose for certain uses.",
+    "variations": [
+      "planted vegetation",
+      "artificial vegetation",
+      "man-made vegetation"
+    ],
+    "emoji": "🌱👨‍🌾",
+    "id": "gl210"
+  },
+  "plateau": {
+    "word": "plateau",
+    "definition": "a large high area of fairly flat land",
+    "variations": [
+      "plateau",
+      "plateaus"
+    ],
+    "emoji": "⛰️⬜",
+    "id": "gl211"
+  },
+  "pole": {
+    "word": "pole",
+    "definition": "either of the two ends of the Earth’s axis, called the North Pole and the South Pole",
+    "variations": [
+      "pole",
+      "poles"
+    ],
+    "emoji": "🧭❄️",
+    "id": "gl212"
+  },
+  "political boundaries": {
+    "word": "political boundaries",
+    "definition": "lines that separate one political area, country, or region from another",
+    "variations": [
+      "political boundary",
+      "political boundaries",
+      "boundary",
+      "boundaries"
+    ],
+    "emoji": "🗺️🚧",
+    "id": "gl213"
+  },
+  "pollination": {
+    "word": "pollination",
+    "definition": "The transfer of pollen in flowers that helps plants produce seeds.",
+    "variations": [
+      "pollination",
+      "pollinate",
+      "pollinates",
+      "pollinated",
+      "pollinating"
+    ],
+    "emoji": "🐝🌸",
+    "id": "gl214"
+  },
+  "pollutants": {
+    "word": "pollutants",
+    "definition": "harmful substances that make air, water, or land dirty or unsafe.",
+    "variations": [
+      "pollutant",
+      "pollutants"
+    ],
+    "emoji": "🏭💨",
+    "id": "gl215"
+  },
+  "pollution": {
+    "word": "pollution",
+    "definition": "harmful substances or waste that make air, water, or land dirty",
+    "variations": [
+      "pollution",
+      "pollutants"
+    ],
+    "emoji": "🏭🌫️",
+    "id": "gl216"
+  },
+  "population": {
+    "word": "population",
+    "definition": "all the people living in a particular place",
+    "variations": [
+      "population",
+      "populations"
+    ],
+    "emoji": "👥🏘️",
+    "id": "gl217"
+  },
+  "precipitation": {
+    "word": "precipitation",
+    "definition": "Water that falls from the sky, such as rain, snow, or hail.",
+    "variations": [
+      "precipitation"
+    ],
+    "emoji": "🌧️❄️",
+    "id": "gl218"
+  },
+  "Prime Meridian": {
+    "word": "Prime Meridian",
+    "definition": "the main imaginary line of longitude at 0° from which east and west are measured",
+    "variations": [
+      "Prime Meridian",
+      "prime meridian"
+    ],
+    "emoji": "🗺️0️⃣",
+    "id": "gl219"
+  },
+  "primordial matter": {
+    "word": "primordial matter",
+    "definition": "very early matter believed to have existed at the beginning of the universe",
+    "variations": [
+      "primordial matter"
+    ],
+    "emoji": "🌌🫧",
+    "id": "gl220"
+  },
+  "protoplanet": {
+    "word": "protoplanet",
+    "definition": "a large body of matter in space that is forming into a planet",
+    "variations": [
+      "protoplanet",
+      "protoplanets"
+    ],
+    "emoji": "🪐🌌",
+    "id": "gl221"
+  },
+  "protostar": {
+    "word": "protostar",
+    "definition": "a very young star that is still forming",
+    "variations": [
+      "protostar",
+      "protostars"
+    ],
+    "emoji": "⭐🔥",
+    "id": "gl222"
+  },
+  "radiation": {
+    "word": "radiation",
+    "definition": "energy that travels in the form of waves or particles, such as heat from the sun.",
+    "variations": [
+      "radiation"
+    ],
+    "emoji": "☀️🌡️",
+    "id": "gl223"
+  },
+  "recreational": {
+    "word": "recreational",
+    "definition": "connected with activities done for enjoyment or relaxation.",
+    "variations": [
+      "recreational"
+    ],
+    "emoji": "⚽🌳",
+    "id": "gl224"
+  },
+  "reforestation": {
+    "word": "reforestation",
+    "definition": "The planting of trees again in an area where forest was removed.",
+    "variations": [
+      "reforestation"
+    ],
+    "emoji": "🌱🌳",
+    "id": "gl225"
+  },
+  "relief": {
+    "word": "relief",
+    "definition": "The difference in height between places on the land surface.",
+    "variations": [
+      "relief"
+    ],
+    "emoji": "⛰️📏",
+    "id": "gl226"
+  },
+  "relief features": {
+    "word": "relief features",
+    "definition": "the different shapes and heights of the land surface, such as mountains, plains, and valleys",
+    "variations": [
+      "relief feature",
+      "relief features"
+    ],
+    "emoji": "⛰️🏞️",
+    "id": "gl227"
+  },
+  "remote sensing": {
+    "word": "remote sensing",
+    "definition": "the gathering of information about an area from a distance, often by satellites or aircraft",
+    "variations": [
+      "remote sensing"
+    ],
+    "emoji": "🛰️🌍",
+    "id": "gl228"
+  },
+  "renewable energy": {
+    "word": "renewable energy",
+    "definition": "energy from sources that can be naturally replaced, such as sunlight or wind.",
+    "variations": [
+      "renewable energy"
+    ],
+    "emoji": "☀️💨🔋",
+    "id": "gl229"
+  },
+  "residual mountain": {
+    "word": "residual mountain",
+    "definition": "a mountain left behind after softer rock has been worn away by weathering and erosion",
+    "variations": [
+      "residual mountain",
+      "residual mountains"
+    ],
+    "emoji": "⛰️🪨",
+    "id": "gl230"
+  },
+  "resource": {
+    "word": "resource",
+    "definition": "something useful that people can use, such as water, land, minerals, or energy",
+    "variations": [
+      "resource",
+      "resources"
+    ],
+    "emoji": "💧⛏️🌍",
+    "id": "gl231"
+  },
+  "resources": {
+    "word": "resources",
+    "definition": "useful materials or things that people can use, such as water, land, or minerals",
+    "variations": [
+      "resource",
+      "resources"
+    ],
+    "emoji": "💧🌾⛏️",
+    "id": "gl232"
+  },
+  "respiration": {
+    "word": "respiration",
+    "definition": "the process of breathing in oxygen and using it in the body to produce energy.",
+    "variations": [
+      "respiration"
+    ],
+    "emoji": "🫁💨",
+    "id": "gl233"
+  },
+  "retention": {
+    "word": "retention",
+    "definition": "the ability to keep or hold something.",
+    "variations": [
+      "retention"
+    ],
+    "emoji": "💧🫙",
+    "id": "gl234"
+  },
+  "revolution": {
+    "word": "revolution",
+    "definition": "the movement of the Earth or another body as it goes around the Sun or another object",
+    "variations": [
+      "revolution",
+      "revolutions",
+      "revolve",
+      "revolves",
+      "revolved"
+    ],
+    "emoji": "🌍☀️🔄",
+    "id": "gl235"
+  },
+  "ridge": {
+    "word": "ridge",
+    "definition": "a long narrow raised area of land, often the top of a hill or mountain chain.",
+    "variations": [
+      "ridge",
+      "ridges"
+    ],
+    "emoji": "⛰️📏",
+    "id": "gl236"
+  },
+  "rift valley": {
+    "word": "rift valley",
+    "definition": "a long deep valley formed when a block of land sinks between faults",
+    "variations": [
+      "rift valley",
+      "rift valleys"
+    ],
+    "emoji": "🏞️🌍",
+    "id": "gl237"
+  },
+  "river": {
+    "word": "river",
+    "definition": "a natural flow of fresh water moving in a channel across the land",
+    "variations": [
+      "river",
+      "rivers"
+    ],
+    "emoji": "🏞️💧",
+    "id": "gl238"
+  },
+  "rocky planets": {
+    "word": "rocky planets",
+    "definition": "planets with solid surfaces made mainly of rock",
+    "variations": [
+      "rocky planet",
+      "rocky planets"
+    ],
+    "emoji": "🪨🪐",
+    "id": "gl239"
+  },
+  "rotate": {
+    "word": "rotate",
+    "definition": "to turn around a centre or axis",
+    "variations": [
+      "rotate",
+      "rotates",
+      "rotated",
+      "rotating",
+      "rotation"
+    ],
+    "emoji": "🔄🌍",
+    "id": "gl240"
+  },
+  "rotational": {
+    "word": "rotational",
+    "definition": "related to turning around a centre or axis",
+    "variations": [
+      "rotation",
+      "rotate",
+      "rotates",
+      "rotating"
+    ],
+    "emoji": "🔄🌍",
+    "id": "gl241"
+  },
+  "runoff": {
+    "word": "runoff",
+    "definition": "water that flows over the surface of the ground, especially after rain.",
+    "variations": [
+      "runoff",
+      "surface runoff"
+    ],
+    "emoji": "🌧️💧",
+    "id": "gl242"
+  },
+  "saline": {
+    "word": "saline",
+    "definition": "containing salt.",
+    "variations": [
+      "saline"
+    ],
+    "emoji": "🧂🌊",
+    "id": "gl243"
+  },
+  "salinity": {
+    "word": "salinity",
+    "definition": "The amount of salt in water.",
+    "variations": [
+      "salinity",
+      "salinities"
+    ],
+    "emoji": "🧂💧",
+    "id": "gl244"
+  },
+  "salty": {
+    "word": "salty",
+    "definition": "containing salt, like sea water",
+    "variations": [
+      "salty"
+    ],
+    "emoji": "🧂🌊",
+    "id": "gl245"
+  },
+  "satellite": {
+    "word": "satellite",
+    "definition": "an object that moves around a planet; it can be natural or made by humans",
+    "variations": [
+      "satellites"
+    ],
+    "emoji": "🛰️🌍",
+    "id": "gl246"
+  },
+  "sea": {
+    "word": "sea",
+    "definition": "a large area of salt water, smaller than an ocean",
+    "variations": [
+      "sea",
+      "seas"
+    ],
+    "emoji": "🌊🚢",
+    "id": "gl247"
+  },
+  "season": {
+    "word": "season",
+    "definition": "one of the main parts of the year, such as summer or winter, with its own usual weather",
+    "variations": [
+      "season",
+      "seasons",
+      "seasonal"
+    ],
+    "emoji": "☀️🍂❄️",
+    "id": "gl248"
+  },
+  "sediment": {
+    "word": "sediment",
+    "definition": "small pieces of soil, sand, or rock carried and dropped by water, wind, or ice",
+    "variations": [
+      "sediment",
+      "sediments"
+    ],
+    "emoji": "🪨💧",
+    "id": "gl249"
+  },
+  "settlement": {
+    "word": "settlement",
+    "definition": "a place where people live, such as a village, town, or city",
+    "variations": [
+      "settlement",
+      "settlements"
+    ],
+    "emoji": "🏘️🏠",
+    "id": "gl250"
+  },
+  "settlements": {
+    "word": "settlements",
+    "definition": "places where people live, such as villages, towns, or cities",
+    "variations": [
+      "settlement",
+      "settlements"
+    ],
+    "emoji": "🏘️🏙️",
+    "id": "gl251"
+  },
+  "shadow": {
+    "word": "shadow",
+    "definition": "a dark shape made when light is blocked by an object",
+    "variations": [
+      "shadows"
+    ],
+    "emoji": "🌑👤",
+    "id": "gl252"
+  },
+  "slope": {
+    "word": "slope",
+    "definition": "the slant of the land surface",
+    "variations": [
+      "slope",
+      "slopes"
+    ],
+    "emoji": "📉⛰️",
+    "id": "gl253"
+  },
+  "solar eclipse": {
+    "word": "solar eclipse",
+    "definition": "an eclipse that happens when the Moon moves between the Earth and the Sun, blocking the Sun’s light",
+    "variations": [
+      "solar eclipse",
+      "solar eclipses"
+    ],
+    "emoji": "🌑☀️🌍",
+    "id": "gl254"
+  },
+  "Solar System": {
+    "word": "Solar System",
+    "definition": "the Sun and all the planets and other objects that move around it",
+    "variations": [
+      "solar system",
+      "Solar Systems"
+    ],
+    "emoji": "☀️🪐",
+    "id": "gl255"
+  },
+  "solstice": {
+    "word": "solstice",
+    "definition": "the time of year when the Sun is farthest north or south of the equator, giving the longest or shortest day",
+    "variations": [
+      "solstice",
+      "solstices"
+    ],
+    "emoji": "☀️🌍",
+    "id": "gl256"
+  },
+  "source": {
+    "word": "source",
+    "definition": "the place where a river begins",
+    "variations": [
+      "source",
+      "sources"
+    ],
+    "emoji": "💧📍",
+    "id": "gl257"
+  },
+  "sparsely": {
+    "word": "sparsely",
+    "definition": "with few people or things spread over a large area",
+    "variations": [
+      "sparse",
+      "sparsely"
+    ],
+    "emoji": "🏜️📍",
+    "id": "gl258"
+  },
+  "spatial distribution": {
+    "word": "spatial distribution",
+    "definition": "the way people, things, or features are spread over an area",
+    "variations": [
+      "spatial distribution",
+      "distributions"
+    ],
+    "emoji": "🗺️📍",
+    "id": "gl259"
+  },
+  "spherical": {
+    "word": "spherical",
+    "definition": "round in shape like a ball",
+    "variations": [
+      "sphere",
+      "spheres",
+      "spherically"
+    ],
+    "emoji": "⚪🌍",
+    "id": "gl260"
+  },
+  "spiral": {
+    "word": "spiral",
+    "definition": "a shape that curves round and round from a centre",
+    "variations": [
+      "spiral",
+      "spirals"
+    ],
+    "emoji": "🌀✨",
+    "id": "gl261"
+  },
+  "standard time": {
+    "word": "standard time",
+    "definition": "the official time used in a country or region",
+    "variations": [
+      "standard time"
+    ],
+    "emoji": "⏰✅",
+    "id": "gl262"
+  },
+  "static": {
+    "word": "static",
+    "definition": "not moving or changing",
+    "variations": [
+      "statically"
+    ],
+    "emoji": "🧍⏸️",
+    "id": "gl263"
+  },
+  "statistics": {
+    "word": "statistics",
+    "definition": "numbers and data collected and studied to understand something",
+    "variations": [
+      "statistics",
+      "statistical"
+    ],
+    "emoji": "📊📈",
+    "id": "gl264"
+  },
+  "stellar remnants": {
+    "word": "stellar remnants",
+    "definition": "what is left after a star changes or dies",
+    "variations": [
+      "stellar remnant",
+      "stellar remnants"
+    ],
+    "emoji": "⭐残",
+    "id": "gl265"
+  },
+  "strait": {
+    "word": "strait",
+    "definition": "a narrow stretch of water that separates two land areas",
+    "variations": [
+      "strait",
+      "straits"
+    ],
+    "emoji": "🌊↔️",
+    "id": "gl266"
+  },
+  "strata": {
+    "word": "strata",
+    "definition": "layers of rock or soil lying one above another.",
+    "variations": [
+      "strata"
+    ],
+    "emoji": "🪨📚",
+    "id": "gl267"
+  },
+  "stream": {
+    "word": "stream",
+    "definition": "a small narrow flow of water",
+    "variations": [
+      "stream",
+      "streams"
+    ],
+    "emoji": "💦🏞️",
+    "id": "gl268"
+  },
+  "summit": {
+    "word": "summit",
+    "definition": "the highest point of a hill or mountain",
+    "variations": [
+      "summit",
+      "summits"
+    ],
+    "emoji": "🏔️🔝",
+    "id": "gl269"
+  },
+  "sunrise": {
+    "word": "sunrise",
+    "definition": "the time when the Sun first appears in the morning",
+    "variations": [
+      "sunrises"
+    ],
+    "emoji": "🌅☀️",
+    "id": "gl270"
+  },
+  "sunset": {
+    "word": "sunset",
+    "definition": "the time when the Sun goes down in the evening",
+    "variations": [
+      "sunsets"
+    ],
+    "emoji": "🌇☀️",
+    "id": "gl271"
+  },
+  "supercontinent": {
+    "word": "supercontinent",
+    "definition": "a very large continent made when several continents are joined together",
+    "variations": [
+      "supercontinent",
+      "supercontinents"
+    ],
+    "emoji": "🌍🧩",
+    "id": "gl272"
+  },
+  "superocean": {
+    "word": "superocean",
+    "definition": "a huge ancient ocean that surrounded a supercontinent",
+    "variations": [
+      "superocean",
+      "superoceans"
+    ],
+    "emoji": "🌊🌍",
+    "id": "gl273"
+  },
+  "survey": {
+    "word": "survey",
+    "definition": "the act of collecting information by measuring, observing, or asking questions",
+    "variations": [
+      "survey",
+      "surveys",
+      "surveying"
+    ],
+    "emoji": "📏📝",
+    "id": "gl274"
+  },
+  "surveyor": {
+    "word": "surveyor",
+    "definition": "a person who measures and maps land",
+    "variations": [
+      "surveyor",
+      "surveyors",
+      "survey"
+    ],
+    "emoji": "📏🧭",
+    "id": "gl275"
+  },
+  "survival": {
+    "word": "survival",
+    "definition": "the state of staying alive or continuing to exist",
+    "variations": [
+      "survival",
+      "survive",
+      "surviving"
+    ],
+    "emoji": "🌿💪",
+    "id": "gl276"
+  },
+  "sustainably": {
+    "word": "sustainably",
+    "definition": "in a way that uses resources carefully so they are not used up or damaged",
+    "variations": [
+      "sustainably",
+      "sustainable"
+    ],
+    "emoji": "♻️🌱",
+    "id": "gl277"
+  },
+  "swamp": {
+    "word": "swamp",
+    "definition": "A very wet area of land, often with standing water and plants.",
+    "variations": [
+      "swamp",
+      "swamps"
+    ],
+    "emoji": "💧🌿🪵",
+    "id": "gl278"
+  },
+  "tensional force": {
+    "word": "tensional force",
+    "definition": "a force that pulls rocks apart.",
+    "variations": [
+      "tensional force",
+      "tensional forces"
+    ],
+    "emoji": "↕️🪨",
+    "id": "gl279"
+  },
+  "terrestrial": {
+    "word": "terrestrial",
+    "definition": "connected with land rather than the sea or air",
+    "variations": [
+      "terrestrial"
+    ],
+    "emoji": "🌍🏞️",
+    "id": "gl280"
+  },
+  "thatching": {
+    "word": "thatching",
+    "definition": "the use of dry plant material to make a roof cover.",
+    "variations": [
+      "thatching"
+    ],
+    "emoji": "🏠🌾",
+    "id": "gl281"
+  },
+  "theory": {
+    "word": "theory",
+    "definition": "a set of ideas used to explain how or why something happens",
+    "variations": [
+      "theory",
+      "theories"
+    ],
+    "emoji": "💡📘",
+    "id": "gl282"
+  },
+  "tide": {
+    "word": "tide",
+    "definition": "the regular rise and fall of ocean water level caused mainly by the pull of the moon and the Sun",
+    "variations": [
+      "tide",
+      "tides",
+      "tidal"
+    ],
+    "emoji": "🌊🌕",
+    "id": "gl283"
+  },
+  "tilted": {
+    "word": "tilted",
+    "definition": "leaning or slanting to one side instead of being straight upright",
+    "variations": [
+      "tilt",
+      "tilts",
+      "tilting"
+    ],
+    "emoji": "📐↗️",
+    "id": "gl284"
+  },
+  "time zone": {
+    "word": "time zone",
+    "definition": "one of the areas of the world that has the same standard time",
+    "variations": [
+      "time zones"
+    ],
+    "emoji": "🕒🌍",
+    "id": "gl285"
+  },
+  "topography": {
+    "word": "topography",
+    "definition": "The physical shape and height of the land in an area.",
+    "variations": [
+      "topography",
+      "topographies"
+    ],
+    "emoji": "🗺️⛰️",
+    "id": "gl286"
+  },
+  "tourism": {
+    "word": "tourism",
+    "definition": "traveling to places for enjoyment, learning, or отдых",
+    "variations": [
+      "tourism",
+      "tourist",
+      "tourists"
+    ],
+    "emoji": "✈️📸🏝️",
+    "id": "gl287"
+  },
+  "trench": {
+    "word": "trench",
+    "definition": "A very deep, long, and narrow hollow in the ocean floor.",
+    "variations": [
+      "trench",
+      "trenches",
+      "ocean trench",
+      "ocean trenches"
+    ],
+    "emoji": "🌊🕳️",
+    "id": "gl288"
+  },
+  "tributary": {
+    "word": "tributary",
+    "definition": "a smaller river or stream that flows into a larger river",
+    "variations": [
+      "tributary",
+      "tributaries"
+    ],
+    "emoji": "🏞️💧",
+    "id": "gl289"
+  },
+  "Tropic of Cancer": {
+    "word": "Tropic of Cancer",
+    "definition": "the line of latitude at 23½° north of the equator",
+    "variations": [
+      "Tropic of Cancer"
+    ],
+    "emoji": "🌍☀️",
+    "id": "gl290"
+  },
+  "Tropic of Capricorn": {
+    "word": "Tropic of Capricorn",
+    "definition": "the line of latitude at 23½° south of the equator",
+    "variations": [
+      "Tropic of Capricorn"
+    ],
+    "emoji": "🌍☀️",
+    "id": "gl291"
+  },
+  "tropics": {
+    "word": "tropics",
+    "definition": "the warm region of the Earth near the Equator, between the Tropic of Cancer and the Tropic of Capricorn",
+    "variations": [
+      "tropics"
+    ],
+    "emoji": "☀️🌴",
+    "id": "gl292"
+  },
+  "umbra": {
+    "word": "umbra",
+    "definition": "the darkest central part of a shadow, where light is completely blocked",
+    "variations": [
+      "umbra",
+      "umbrae"
+    ],
+    "emoji": "🌑⬛",
+    "id": "gl293"
+  },
+  "universe": {
+    "word": "universe",
+    "definition": "all of space and everything in it",
+    "variations": [
+      "universe",
+      "universes"
+    ],
+    "emoji": "🌌✨",
+    "id": "gl294"
+  },
+  "unsustainable": {
+    "word": "unsustainable",
+    "definition": "not able to continue for a long time without causing harm or using up resources.",
+    "variations": [
+      "unsustainable"
+    ],
+    "emoji": "⚠️🌍",
+    "id": "gl295"
+  },
+  "uplift": {
+    "word": "uplift",
+    "definition": "to raise part of the Earth's surface to a higher level",
+    "variations": [
+      "uplift",
+      "uplifts",
+      "uplifted",
+      "uplifting"
+    ],
+    "emoji": "⬆️🌍",
+    "id": "gl296"
+  },
+  "valley": {
+    "word": "valley",
+    "definition": "a low area of land between hills or mountains.",
+    "variations": [
+      "valley",
+      "valleys"
+    ],
+    "emoji": "⛰️⬇️",
+    "id": "gl297"
+  },
+  "vegetation": {
+    "word": "vegetation",
+    "definition": "the plants that grow in a particular place or area",
+    "variations": [
+      "vegetation"
+    ],
+    "emoji": "🌿🌳",
+    "id": "gl298"
+  },
+  "volcanic mountain": {
+    "word": "volcanic mountain",
+    "definition": "a mountain formed by lava and other materials from a volcano",
+    "variations": [
+      "volcanic mountain",
+      "volcanic mountains"
+    ],
+    "emoji": "🌋⛰️",
+    "id": "gl299"
+  },
+  "voyage": {
+    "word": "voyage",
+    "definition": "a long journey, especially by sea or in space",
+    "variations": [
+      "voyages"
+    ],
+    "emoji": "🚢🧭",
+    "id": "gl300"
+  },
+  "waning": {
+    "word": "waning",
+    "definition": "becoming smaller in the visible lighted part of the Moon after a full moon",
+    "variations": [
+      "waning"
+    ],
+    "emoji": "🌖🌘",
+    "id": "gl301"
+  },
+  "water body": {
+    "word": "water body",
+    "definition": "any area of water on the Earth's surface, such as a river, lake, sea, or ocean",
+    "variations": [
+      "water body",
+      "water bodies"
+    ],
+    "emoji": "💧🌍",
+    "id": "gl302"
+  },
+  "watershed": {
+    "word": "watershed",
+    "definition": "the line of high land that separates water flowing into different rivers or drainage areas.",
+    "variations": [
+      "watershed",
+      "watersheds"
+    ],
+    "emoji": "💧⛰️",
+    "id": "gl303"
+  },
+  "waxing": {
+    "word": "waxing",
+    "definition": "becoming larger in the visible lighted part of the Moon after a new moon",
+    "variations": [
+      "waxing"
+    ],
+    "emoji": "🌒🌔",
+    "id": "gl304"
+  },
+  "weather forecasting": {
+    "word": "weather forecasting",
+    "definition": "the act of predicting what the weather will be like",
+    "variations": [
+      "weather forecasting",
+      "forecasting",
+      "forecast"
+    ],
+    "emoji": "🌤️📅",
+    "id": "gl305"
+  },
+  "weathering": {
+    "word": "weathering",
+    "definition": "the breaking down of rocks into smaller pieces by natural processes",
+    "variations": [
+      "weathering"
+    ],
+    "emoji": "🪨🌦️",
+    "id": "gl306"
+  },
+  "woodland": {
+    "word": "woodland",
+    "definition": "A large area of land covered with scattered or open trees.",
+    "variations": [
+      "woodland",
+      "woodlands"
+    ],
+    "emoji": "🌳🍃",
+    "id": "gl307"
+  }
+}
